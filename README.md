@@ -1,6 +1,8 @@
 # OMORI-HERO-YAML-File-Converter
 tool for encrypting and decrypting OMORI's .HERO files. These files in OMORI are typically YAML data files encrypted with AES. This tool allows modders or curious users to view/edit these YAML files.
 
+![omori-hero-yaml-File-converter](https://github.com/user-attachments/assets/32a6ed97-08ea-461e-b052-3ccf41fe6cac)
+
 **How to Use the Tool**
 
 1.  **Prerequisites:**
